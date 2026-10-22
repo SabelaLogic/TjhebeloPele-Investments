@@ -3,13 +3,14 @@
 Faith Forward Career Services — professional CV creation and application management starting in Bloemfontein.
 
 ## Landing Page
-The `index.html` file is the public landing page.
+`index.html` is the public landing page (updated with correct branding and placeholder images).
 
 ## Company Documents
-- Marketing Plan
-- Business / Investment Overview
-- Internal Company Profile
+Place the following PDFs in the root for reference:
+- TjhebeloPele_Marketing_Plan.pdf
+- Business_Investment_Overview.pdf
+- Company_Profile_Internal.pdf
 
-Related projects under SabelaLogic include Lindiwe and other community and digital service builds.
+Related projects under SabelaLogic include the Lindiwe repository.
 
 Bloemfontein, Free State, South Africa.
